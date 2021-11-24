@@ -1,0 +1,15 @@
+{
+    "name": "dannyhuang/8-autoloading",
+    "authors": [
+        {
+            "name": "dannyhuang",
+            "email": "kuanhsuh@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\": "./app"
+        }
+    }
+}
